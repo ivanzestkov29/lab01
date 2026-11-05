@@ -1,0 +1,15 @@
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\bin\Debug\net10.0\Lab-01-Zhestkov.exe
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\bin\Debug\net10.0\Lab-01-Zhestkov.deps.json
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\bin\Debug\net10.0\Lab-01-Zhestkov.runtimeconfig.json
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\bin\Debug\net10.0\Lab-01-Zhestkov.dll
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\bin\Debug\net10.0\Lab-01-Zhestkov.pdb
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\obj\Debug\net10.0\Lab-01-Zhestkov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\obj\Debug\net10.0\Lab-01-Zhestkov.AssemblyInfoInputs.cache
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\obj\Debug\net10.0\Lab-01-Zhestkov.AssemblyInfo.cs
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\obj\Debug\net10.0\Lab-01-Zhestkov.csproj.CoreCompileInputs.cache
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\obj\Debug\net10.0\Lab-01-Zhestkov.sourcelink.json
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\obj\Debug\net10.0\Lab-01-Zhestkov.dll
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\obj\Debug\net10.0\refint\Lab-01-Zhestkov.dll
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\obj\Debug\net10.0\Lab-01-Zhestkov.pdb
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\obj\Debug\net10.0\Lab-01-Zhestkov.genruntimeconfig.cache
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\obj\Debug\net10.0\ref\Lab-01-Zhestkov.dll
