@@ -79,3 +79,8 @@ Console.WriteLine($"Все три строки равны: {fullNameConcat == fu
 // программа работает исправно 
 // мне понравился c# 
 
+int scholarship = 1500;
+int monthlyExpenses = 1000;
+System.Console.WriteLine($"останется у студента к концу месяца: {scholarship - monthlyExpenses}");
+const int MonthsInSemester = 4;
+System.Console.WriteLine($"сколько это составит за весь семестр: {(scholarship - monthlyExpenses) * 4}");
