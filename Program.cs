@@ -23,19 +23,19 @@
 // Console.WriteLine($"Площадь: {roomArea} м²");
 // Console.WriteLine($"Периметр: {roomPerimeter} м"); 
 
-Console.WriteLine();
-Console.WriteLine("Покупка ноутбука в рассрочку");
+// Console.WriteLine();
+// Console.WriteLine("Покупка ноутбука в рассрочку");
 
-int laptopPrice = 50000;
-int monthsCount = 12;
-double interestRate = 0.08;
+// int laptopPrice = 50000;
+// int monthsCount = 12;
+// double interestRate = 0.08;
 
-double totalWithInterest = laptopPrice * (1 + interestRate);
-double monthyPayment = totalWithInterest / monthsCount;
+// double totalWithInterest = laptopPrice * (1 + interestRate);
+// double monthyPayment = totalWithInterest / monthsCount;
 
-Console.WriteLine($"Цена ноутбука: {laptopPrice} руб.");
-Console.WriteLine($"Итого с процентами: {totalWithInterest} руб.");
-Console.WriteLine($"Платеж в месяц: {monthyPayment} руб.");
+// Console.WriteLine($"Цена ноутбука: {laptopPrice} руб.");
+// Console.WriteLine($"Итого с процентами: {totalWithInterest} руб.");
+// Console.WriteLine($"Платеж в месяц: {monthyPayment} руб.");
 // Console.WriteLine();
 // Console.WriteLine("Внимания деления int");
 
@@ -46,3 +46,36 @@ Console.WriteLine($"Платеж в месяц: {monthyPayment} руб.");
 
 // Console.WriteLine($"25 / 4 как int: {studentsPerGroupWrong}"); // Выводит 6
 // Console.WriteLine($"25 / 4 как double: {studentsPerGroupCorrect}"); // Выводит 6.25
+Console.WriteLine();
+Console.WriteLine("Способы собрать строку");
+
+string firstName = "Иван";
+string lastName = "Жестков";
+
+// Способ 1: Конкатенация через оператор +
+string fullNameConcat = firstName + " " + lastName;
+// Способ 2: Интерполяция строк $""
+string fullNameInterp = $"{firstName} {lastName}";
+// Способ 3: Метод String.Format
+string fullNameConcatMethod = string.Concat(firstName, " ", lastName);
+
+Console.WriteLine($"FullNameConcat");
+Console.WriteLine($"FullNameInterp");
+Console.WriteLine($"FullNameConcatMethod");
+Console.WriteLine($"Все три строки равны: {fullNameConcat == fullNameInterp && fullNameInterp == fullNameConcatMethod}");
+
+// Console.WriteLine();
+// Console.WriteLine("Константы");
+
+// const double VatRate = 0.20;
+// const string CollegeName = "ВФ ВолГУ";
+
+// double productPrice = 1000;
+// double priceWithVat = productPrice * (1 + VatRate);
+
+// Console.WriteLine($"Учебное заведение: {CollegeName}");
+// Console.WriteLine($"Цена без НДС: {productPrice}, с НДС ({VatRate:P0})):{priceWithVat}");
+// написание программы прошло успешно 
+// программа работает исправно 
+// мне понравился c# 
+
