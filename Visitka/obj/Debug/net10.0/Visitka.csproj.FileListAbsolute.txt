@@ -1,0 +1,15 @@
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\bin\Debug\net10.0\Visitka.exe
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\bin\Debug\net10.0\Visitka.deps.json
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\bin\Debug\net10.0\Visitka.runtimeconfig.json
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\bin\Debug\net10.0\Visitka.dll
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\bin\Debug\net10.0\Visitka.pdb
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\obj\Debug\net10.0\Visitka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\obj\Debug\net10.0\Visitka.AssemblyInfoInputs.cache
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\obj\Debug\net10.0\Visitka.AssemblyInfo.cs
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\obj\Debug\net10.0\Visitka.csproj.CoreCompileInputs.cache
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\obj\Debug\net10.0\Visitka.sourcelink.json
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\obj\Debug\net10.0\Visitka.dll
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\obj\Debug\net10.0\refint\Visitka.dll
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\obj\Debug\net10.0\Visitka.pdb
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\obj\Debug\net10.0\Visitka.genruntimeconfig.cache
+C:\Users\Ваня\Documents\Lab-01-Zhestkov\Visitka\obj\Debug\net10.0\ref\Visitka.dll
