@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ваня\\Documents\\Lab-01-Zhestkov\\Visitka\\Visitka.csproj": {}
+    "c:\\Users\\Ваня\\Documents\\Lab-01-Zhestkov\\Visitka\\Visitka.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ваня\\Documents\\Lab-01-Zhestkov\\Visitka\\Visitka.csproj": {
+    "c:\\Users\\Ваня\\Documents\\Lab-01-Zhestkov\\Visitka\\Visitka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ваня\\Documents\\Lab-01-Zhestkov\\Visitka\\Visitka.csproj",
+        "projectUniqueName": "c:\\Users\\Ваня\\Documents\\Lab-01-Zhestkov\\Visitka\\Visitka.csproj",
         "projectName": "Visitka",
-        "projectPath": "C:\\Users\\Ваня\\Documents\\Lab-01-Zhestkov\\Visitka\\Visitka.csproj",
+        "projectPath": "c:\\Users\\Ваня\\Documents\\Lab-01-Zhestkov\\Visitka\\Visitka.csproj",
         "packagesPath": "C:\\Users\\Ваня\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ваня\\Documents\\Lab-01-Zhestkov\\Visitka\\obj\\",
+        "outputPath": "c:\\Users\\Ваня\\Documents\\Lab-01-Zhestkov\\Visitka\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ваня\\AppData\\Roaming\\NuGet\\NuGet.Config"

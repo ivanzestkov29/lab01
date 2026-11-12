@@ -46,23 +46,23 @@
 
 // Console.WriteLine($"25 / 4 как int: {studentsPerGroupWrong}"); // Выводит 6
 // Console.WriteLine($"25 / 4 как double: {studentsPerGroupCorrect}"); // Выводит 6.25
-Console.WriteLine();
-Console.WriteLine("Способы собрать строку");
+// Console.WriteLine();
+// Console.WriteLine("Способы собрать строку");
 
-string firstName = "Иван";
-string lastName = "Жестков";
+// string firstName = "Иван";
+// string lastName = "Жестков";
 
-// Способ 1: Конкатенация через оператор +
-string fullNameConcat = firstName + " " + lastName;
-// Способ 2: Интерполяция строк $""
-string fullNameInterp = $"{firstName} {lastName}";
-// Способ 3: Метод String.Format
-string fullNameConcatMethod = string.Concat(firstName, " ", lastName);
+// // Способ 1: Конкатенация через оператор +
+// string fullNameConcat = firstName + " " + lastName;
+// // Способ 2: Интерполяция строк $""
+// string fullNameInterp = $"{firstName} {lastName}";
+// // Способ 3: Метод String.Format
+// string fullNameConcatMethod = string.Concat(firstName, " ", lastName);
 
-Console.WriteLine($"FullNameConcat");
-Console.WriteLine($"FullNameInterp");
-Console.WriteLine($"FullNameConcatMethod");
-Console.WriteLine($"Все три строки равны: {fullNameConcat == fullNameInterp && fullNameInterp == fullNameConcatMethod}");
+// Console.WriteLine($"FullNameConcat");
+// Console.WriteLine($"FullNameInterp");
+// Console.WriteLine($"FullNameConcatMethod");
+// Console.WriteLine($"Все три строки равны: {fullNameConcat == fullNameInterp && fullNameInterp == fullNameConcatMethod}");
 
 // Console.WriteLine();
 // Console.WriteLine("Константы");
